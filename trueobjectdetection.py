@@ -225,3 +225,5 @@ with detection_graph.as_default():
 
 
 # ###### print(max(classes[0]))
+
+#### Use Pytorch instead 
